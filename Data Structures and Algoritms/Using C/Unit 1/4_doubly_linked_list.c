@@ -1,4 +1,5 @@
 // Program to implement Doubly Linked List with iterative functions
+// Nodes are self-referential structures
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
